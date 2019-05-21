@@ -1,6 +1,3 @@
-function greet(name)
-{
-console.log('finally learning git'+ name)
-}
-greet(' geetansh')
-console.log(' made changes for branch')
+
+console.log('finally learning git')
+console.log('change one man')
